@@ -1,1 +1,1 @@
-# Este es mi primer proyecto del curso de desarrollo wed.
+# Este es mi primer proyecto del curso de desarrollo web
