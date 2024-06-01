@@ -1,4 +1,5 @@
 
+@media scream and (max-width: 569px) {
   body { 
 
     background: #f857a6;  /* fallback for old browsers */
@@ -7,10 +8,14 @@ background: linear-gradient(to right, #ff5858, #f857a6); /* W3C, IE 10+/ Edge, F
 
 
   }
+
+
+}
+  
    @media scream and (min-width: 570px) { 
 
     body {
-      background-color: #e38eba;
+      background-color: #e38eba; 
       font-size: 15px;
       font-family: 'Poppins';
       place-content: center; 
