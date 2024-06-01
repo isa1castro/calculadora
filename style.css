@@ -1,9 +1,18 @@
-body {
-    background-color: #e38eba;
-    font-size: 15px;
-    font-family: 'Poppins';
-    place-content: center;
+
+  
+   @media scream and (min-width: 570px) { 
+
+    body {
+      background-color: #e38eba;
+      font-size: 15px;
+      font-family: 'Poppins';
+      place-content: center; 
+    
+    }
   }
+  
+  
+    
   
   .calculator {
     margin: auto;
