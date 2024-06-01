@@ -2,9 +2,9 @@
 
   body { 
 
-    background: #f857a6;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #ff5858, #f857a6);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #ff5858, #f857a6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FC354C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0ABFBC, #FC354C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0ABFBC, #FC354C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
   }
@@ -12,10 +12,10 @@ background: linear-gradient(to right, #ff5858, #f857a6); /* W3C, IE 10+/ Edge, F
    @media (max-width: 570px) { 
 
     body {
-      background-color: #e38eba; 
-      font-size: 15px;
-      font-family: 'Poppins';
-      place-content: center; 
+      background: #E55D87;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5FC3E4, #E55D87);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5FC3E4, #E55D87); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
     
     }
 
