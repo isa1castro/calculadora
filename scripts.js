@@ -50,5 +50,5 @@ function modulo() {
 function cleaner(){
   document.getElementById('num1').value="";
   document.getElementById('num2').value="";
-  document.getElementById('resultado').innerHTML="";
+  document.getElementById('resultado').tabIndex.html="";
 }
