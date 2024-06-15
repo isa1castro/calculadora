@@ -39,7 +39,7 @@ button {
   padding: 10px;
   margin: 5px;
   width: calc(25% - 10px);
-  background-color: #e74c3c;
+  background-color: #ce40c4;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -47,7 +47,7 @@ button {
 }
 
 button:hover {
-  background-color: #c0392b;
+  background-color: #f7a8e3;
 }
 
 #resultado {
